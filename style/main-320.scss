@@ -1,0 +1,988 @@
+@media screen and (max-width: 320px) and (min-width: 120px) {
+    .container {
+        width: 320px;
+        height: 3940px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    .header {
+
+        width: 320px;
+        height: 540px;
+        background: url(../img/Backgroundmob.png);
+        background-position-x: 0px;
+        background-position-y: 0px;
+        background-size: 97%;
+        background-repeat: no-repeat;
+        
+    }
+
+    .logo {
+        position: absolute;
+        width: 152px;
+        height: 24px;
+        
+    left: 86px;
+    top: 153px;
+
+        
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 24px;
+    display: flex;
+    align-items: flex-end;
+    
+    color: #FFFFFF;
+    }
+    
+    .log-in {
+        position: absolute;
+        width: 45px;
+        height: 17px;
+        left: 84px;
+    top: 31px;
+        
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        /* identical to box height */
+        
+        display: flex;
+        align-items: flex-end;
+        
+        color: #FFFFFF;
+    }
+    
+    .sign-in {
+        position: absolute;
+        width: 90px;
+        height: 36px;
+        left: 147px;
+        top: 20px;
+        
+        border: 2px solid #FFFFFF;
+        box-sizing: border-box;
+        border-radius: 40px;
+    }
+    
+    .sign-in>a {
+        font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    position: relative;
+    top: 9px;
+    left: 16px;
+    display: flex;
+    align-items: flex-end;
+    
+    color: #FFFFFF;
+    }
+    
+    .big-text {
+        position: absolute;
+        width: 272px;
+height: 74px;
+left: 24px;
+top: 204px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 37px;
+        text-align: center;
+        
+        color: #FFFFFF;
+    }
+    
+    .small-text {
+        position: absolute;
+        width: 280px;
+height: 49px;
+left: 20px;
+top: 282px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 24px;
+        /* identical to box height, or 102% */
+        
+        display: flex;
+        align-items: flex-end;
+        text-align: center;
+        
+        color: #F7F3F2;
+    
+    }
+    
+    .header__button {
+        position: absolute;
+width: 280px;
+height: 40px;
+left: 21px;
+    top: 347px;
+
+        
+        background: #FF4E50;
+        border-radius: 40px;
+    }
+    
+    .button_text {
+        position: absolute;
+        
+        width: 187px;
+height: 17px;
+left: 47.5px;
+top: 13px;
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+        
+        color: #FFFFFF;
+    }
+
+
+
+   
+    
+    
+
+.how-work_text {
+    position: absolute;
+    top: 574px;
+    left: 16px;
+    width: 289px;
+height: 27px;
+
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+    
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    
+    color: #444444;
+
+}
+
+.step-img1 {
+    position: absolute;
+    top: 616px;
+    left: 10px;
+    width: 300px;
+height: 240px;
+    background-image: url(../img/Step1mob.png);
+        }
+    
+        .step-img2 {
+        
+            width: 300px;
+height: 240px;
+            background-image: url(../img/Step2mob.png);
+            position: absolute;
+            top: 866px;
+            left: 10px;
+                }
+    
+                .step-img3 {
+                    position: absolute;
+    top: 1116px;
+    left: 10px;
+        
+                    width: 300px;
+height: 240px;
+                    background-image: url(../img/Step3mob.png);
+                
+                        }
+
+                        .step_buttom1 {
+                            position: absolute;
+                            width: 70px;
+                            height: 20px;
+                            left: 31px;
+    top: 680px;
+                            
+                            background: #FF4E50;
+                            border-radius: 40px;
+                        }
+                    
+                        .step_buttom1_text {
+                        
+                position: absolute;
+                width: 47px;
+                height: 12px;
+                left: 13px;
+                    top: 7px;
+                
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 10px;
+                line-height: 12px;
+                
+                letter-spacing: 2px;
+                
+                color: #FFFFFF;
+                        }
+
+                        .step1_big-text {
+                            position: absolute;
+                            width: 250px;
+height: 58px;
+left: 30px;
+top: 746px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 14px;
+                           
+                            
+                            color: #FFFFFF;
+                        }
+                    
+                        .step1_small-text {
+                            position: absolute;
+                            
+                            left: 30px;
+                            top: 799px;
+                            
+                            width: 250px;
+height: 57px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 14px;
+                            
+                            
+                            color: #E3E3E3;
+                            
+                        }
+
+                        .step_buttom2 {
+                            position: absolute;
+                width: 70px;
+                height: 20px;
+                left: 31px;
+                top: 961px;
+                
+                background: #FF4E50;
+                border-radius: 40px;
+                                }
+                            
+                                .step_buttom2_text {
+                                    position: absolute;
+                                    width: 46px;
+                                    height: 12px;
+                                    
+                                    
+                                    font-family: Montserrat;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 10px;
+                line-height: 12px;
+                letter-spacing: 2px;
+                                    left: 11px;
+                                    top: 6px;
+                                   
+                                    
+                                    color: #FFFFFF;
+                                }
+                            
+                                .step2_big-text {
+                                    position: absolute;
+                                    width: 250px;
+                                    height: 29px;
+                                    left: 30px;
+    top: 1011px;
+                                    
+                                    font-family: Montserrat;
+                                    font-style: normal;
+                                    font-weight: bold;
+                                    font-size: 24px;
+                                    line-height: 14px;
+                                    color: #FFFFFF;
+                                }
+                            
+                                .step2_small-text {
+                                    position: absolute;
+width: 250px;
+height: 57px;
+left: 30px;
+top: 1034px;
+color: #E3E3E3;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: flex-end;
+                                }
+                    
+                    
+                    
+                    
+                                .step_buttom3 {
+                                    position: absolute;
+                                    width: 70px;
+                                    height: 20px;
+                                    right: 149px;
+    top: 1181px;
+                                    
+                                    background: #FF4E50;
+                                    border-radius: 40px;
+                                        }
+                                    
+                                        .step_buttom3_text {
+                                     position: absolute;
+                                    font-family: Montserrat;
+                                    font-style: normal;
+                                    font-weight: normal;
+                                    font-size: 10px;
+                                    line-height: 12px;
+                                    letter-spacing: 2px;
+                                    left: 11px;
+    top: 5px;
+                                
+                                    
+                                    color: #ffffff;
+                                        }
+                                    
+                                        .step3_big-text {
+                                            position: absolute;
+                                    width: 196px;
+                                    height: 58px;
+                                    right: 24px;
+                                    top: 1246px;
+                                    
+                                    font-family: Montserrat;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 14px;
+                                    
+                                    
+                                    
+                                    color: #FFFFFF;
+                                        }
+                                    
+                                        .step3_small-text {
+                                            position: absolute;
+width: 250px;
+height: 57px;
+left: 30px;
+top: 1284px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: flex-end;
+
+color: #E3E3E3;
+                                        }
+
+                                        .partners {
+                                            position: absolute;
+                                            width: 300px;
+                                            height: 1273px;
+                
+                
+                                            left: -6px;
+                                            top: 1387px;
+                                            
+                                        
+                                           
+                                        }
+                                        .meet-text {
+                                            position: absolute;
+                                            width: 280px;
+height: 54px;
+                                            left: 26px;
+                    top: 5px;
+                                            
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 22px;
+                    line-height: 27px;
+                    display: flex;
+align-items: flex-end;
+text-align: center;
+                                        
+                                        
+                                        
+                                 }
+                                       .person-1 {
+                                        position: absolute;
+                                        top: 74px;
+                                        left: 47px;
+                    width: 240px;
+                    height: 220px;
+                                       
+                                    }
+                
+                                    .person-2 {
+                                        position: absolute;
+                                        top: 534px;
+                                        left: 47px;
+                    width: 236px;
+                    height: 220px;
+                                       
+                                    }
+                
+                    
+                                    .person-3 {
+                                        position: absolute;
+                                        top: 294px;
+                                        left: 47px;
+                    width: 236px;
+                    height: 246px;
+                                       
+                                    }
+                
+                    
+                                    .person-4 {
+                                        position: absolute;
+                                        top: 755px;
+    left: 48px;
+                                        width: 236px;
+                                        height: 220px;
+                                       
+                                    }
+                
+                                        
+                                     
+                                    .person-img {
+                                        width: 120px;
+                                        display: flex;
+                                        justify-content: center;
+                                        margin: 0 auto;
+                                        height: 120px;
+                                    }
+
+                                    .icon-1 {
+                                        position: absolute;
+                                        width: 32px;
+                                        height: 32px;
+                                        left: 147px;
+    top: 87px;
+                                        border-radius: 50%;
+                                        background: #FF4E50;
+                                    }
+                    
+                                    .icon-2 {
+                                        position: absolute;
+                                        width: 32px;
+                                        height: 32px;
+                                        
+                                        left: 147px;
+                                        top: 86px;
+                
+                                        border-radius: 50%;
+                                        background: #19D4CA;
+                                    }
+                                    .icon-3 {
+                                        position: absolute;
+                                    width: 32px;
+                    height: 32px;
+                    left: 147px;
+                    top: 86px;
+                    border-radius: 50%;
+                    background: #FFA710;
+                                    }
+                    
+                                    .icon-4 {
+                                        position: absolute;
+                                        width: 32px;
+                                        height: 32px;
+                                        left: 147px;
+                    top: 87px;
+                                        border-radius: 50%;
+                                        
+                                        background: #667DF3;
+                                    }
+                    
+                                    .icon {
+                                        width: 17px;
+                                        height: 16px;
+                                        position: relative;
+                                        top: 9px;
+                                        left: 8px;
+                                    }
+                
+                                    .person-name {
+                                        margin: 0 auto;
+                                        width: 236px;
+height: 18px;
+                    
+                    
+                    
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 17px;
+                    margin-top: 19px;
+                    text-align: center;
+                                    }
+
+                                    .person-name2 {
+                                        margin: 0 auto;
+                                        width: 236px;
+height: 18px;
+                    
+                    
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 17px;
+                    margin-top: 19px;
+                    text-align: center;
+                                    }
+
+                                    .person-name3 {
+                                        margin: 0 auto;
+                                        width: 236px;
+height: 18px;
+                    
+                    
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 17px;
+                    margin-top: 19px;
+                    text-align: center;
+                                    }
+
+                                    .person-name4 {
+                                        margin: 0 auto;
+                                        width: 236px;
+height: 18px;
+                    
+                    
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 17px;
+                    margin-top: 19px;
+                    text-align: center;
+                                    }
+
+                                    .person-name4 {
+                                        margin: 0 auto;
+                                        width: 221px;
+                    height: 18px;
+                    
+                    
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 17px;
+                    margin-top: 19px;
+                    text-align: center;
+                                    }
+                                    .person-text {
+                                        position: absolute;
+                width: 236px;
+                height: 38px;
+                left: 1px;
+    top: 178px;
+                
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 300;
+                font-size: 14px;
+                line-height: 14px;
+                color: #666666;
+                text-align: center;
+                
+                                    }
+                                    .person-text2 {
+                                        position: absolute;
+                                        width: 236px;
+height: 38px;
+                                        font-family: Roboto;
+                                        font-style: normal;
+                                        font-weight: 300;
+                                        font-size: 14px;
+                                        line-height: 14px;
+                                        text-align: center;
+                                        color: #666666;
+                                        margin-top: 27px;
+                                        margin-left: -1px;
+                                    
+                                    
+                                    }                       
+                                    .person-text3 {
+                                        position: absolute;
+                                        width: 236px;
+height: 57px;
+                                        font-family: Roboto;
+                                        font-style: normal;
+                                        font-weight: 300;
+                                        font-size: 14px;
+                                        line-height: 14px;
+                                        text-align: center;
+                                        color: #666666;
+                                        margin-top: 27px;
+                                        left: 1px;
+                                       
+                                    }    
+                    
+                                    .person-text4 {
+                                        position: absolute;
+                                        width: 236px;
+                                        height: 38px;
+                    font-family: Roboto;
+                    font-style: normal;
+                    font-weight: 300;
+                    font-size: 14px;
+                    line-height: 14px;
+                    text-align: center;
+                    color: #666666;
+                    top: 178px;
+                    left: 0px;
+                                    }
+
+                                    .partner-button      {
+                                        position: absolute;
+                                        width: 280px;
+                                        height: 40px;
+                                        left: 22px;
+                                        top: 2383px;
+                                        font-family: Montserrat;
+                       font-style: normal;
+                       font-weight: bold;
+                       font-size: 14px;
+                       line-height: 17px;
+                       color: #FF4E50;
+                                        
+                        background: #FFFFFF;
+                        border: 2px solid #FF4E50;
+                        box-sizing: border-box;
+                        border-radius: 40px;
+                       }    
+                   
+
+                       .bl-2-text {
+                        position: absolute;
+width: 280px;
+height: 54px;
+left: 20px;
+top: 2458px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #444444;
+                        }    
+
+                        .bl-2-img1 {       
+                            position: absolute;          
+                            width: 300px;
+                            height: 120px;
+                            top: 2546px;
+left: 10px;
+                            background-image: url(../img/Sport1mob.png);
+                        }
+                    
+                        .bl-2-img2 {                 
+                            width: 300px;
+                            height: 120px;
+                            background-image: url(../img/Healath2mob.png);
+                            position: absolute;
+                            left: 10px;
+                            top: 2675px;
+                        }
+                    
+                        .bl-2-img3 {                 
+                            width: 300px;
+                            height: 120px;
+                            background-image: url(../img/Extreme3mob.png);
+                            position: absolute;
+                            left: 10px;
+                            top: 2805px;
+                        }
+                        
+                        .bl-2-img4 {
+                            width: 300px;
+                            height: 120px;
+                            position: absolute;
+                            background-image: url(../img/Games4mob.png);
+                            left: 10px;
+                            top: 2936px;
+                        }
+                    
+                        .bl-2-img5 {
+                            width: 300px;
+                            height: 120px;
+                            position: absolute;
+                            left: 10px;
+    background-image: url(../img/Culture5mob.png);
+    top: 3065px;
+                        }
+                    
+                        .bl-2-img6 {
+                            width: 300px;
+                            height: 120px;
+                            position: absolute;
+                            top: 3195px;
+                            left: 10px;
+                            background-image: url(../img/CultureCopy6mob.png);
+                        }
+                    
+                        .bl-2-img7 {
+                            width: 300px;
+                            height: 120px;
+                            position: absolute;
+                            left: 10px;
+                            top: 3325px;
+                            background-image: url(../img/GamesCopy7mob.png);
+                        }
+                    
+                        .search {
+                            position: absolute;
+                            width: 320px;
+                    height: 200px;
+                    left: 21px;
+    top: 3480px;
+                            
+                        }
+                        
+                        .search-big-text {
+                            
+                            position: absolute;
+                            width: 280px;
+                            height: 54px;
+                            left: -2px;
+                            top: 0px;
+                            
+                            font-family: Montserrat;
+                            font-style: normal;
+                            font-weight: bold;
+                            font-size: 22px;
+                            line-height: 27px;
+                            display: flex;
+                            align-items: flex-end;
+                            text-align: center;
+                            
+                            color: #444444;
+                        }
+                        .seach-small-text {
+                            position: absolute;
+                        width: 300px;
+                        height: 20px;
+    left: 2px;
+    top: 68px;
+                        
+                        font-family: Roboto;
+                        font-style: normal;
+                        font-weight: 300;
+                        font-size: 18px;
+                        line-height: 14px;
+                        /* or 78% */
+                        
+                        display: flex;
+                        align-items: flex-end;
+                        text-align: center;
+                        
+                        color: #666666;
+                        }
+                        
+                        .input {
+                        position: absolute;
+                        width: 299px;
+                        height: 40px;
+                        left: 0px;
+                        top: 103px;
+                        }
+                    
+                        .seach-form {
+                            position: absolute;
+                            width: 299px;
+                            height: 40px;
+                            left: 0px;
+                            top: 103px;
+                            font-family: Roboto;
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 14px;
+                            line-height: 16px;
+                            color: #999999;
+                            }
+                            
+                            .submit {
+                            position: absolute;
+                            width: 280px;
+height: 40px;
+left: 4px;
+    top: 153px;
+                            background: #FF4E50;
+                            border-radius: 40px;
+                            font-family: Montserrat;
+                            font-style: normal;
+                            font-weight: bold;
+                            font-size: 14px;
+                            line-height: 17px;
+                            color: white;
+                            }
+                    
+                            .footer {
+                                position: absolute;
+                                width: 320px;
+                    height: 240px;
+                    top: 3713px;
+                            border-top: 2px red solid;
+                               }
+                            
+                               .footer-logo {
+                                position: absolute;
+                                width: 119px;
+                                height: 20px;
+                                left: 101px;
+                                top: 20px;
+                                
+                                font-family: Montserrat;
+                                font-style: normal;
+                                font-weight: normal;
+                                font-size: 16px;
+                                line-height: 20px;
+                                
+                                
+                                color: #FF4E50;
+                               }
+                            
+                               .company {
+                                position: absolute;
+                                width: 70px;
+                                height: 17px;
+                                left: 125px;
+    top: 52px;
+                                
+                                font-family: Montserrat;
+                                font-style: normal;
+                                font-weight: bold;
+                                font-size: 14px;
+                                line-height: 17px;
+                                   
+                                color: #444444;
+                               }
+                            
+                               .partners-text {
+                                   position: absolute;
+                            width: 64px;
+                            height: 17px;
+                            left: 128px;
+    top: 128px;
+                            
+                            font-family: Montserrat;
+                            font-style: normal;
+                            font-weight: bold;
+                            font-size: 14px;
+                            line-height: 17px;
+                            
+                            
+                            color: #444444;
+                               }
+                            
+                               .design-text {
+                                position: absolute;
+                                width: 100px;
+                                height: 12px;
+                                left: 120px;
+    top: 159px;
+                                
+                                font-family: Montserrat;
+                                font-style: normal;
+                                font-weight: bold;
+                                font-size: 10px;
+                                line-height: 12px;
+                                letter-spacing: 1px;
+                                
+                                color: #CCCCCC;
+                               }
+                            
+                               .areto {
+                                   
+                            position: absolute;
+                            width: 110px;
+                            height: 24px;
+                            left: 105px;
+    top: 177px;
+                               }
+                               .links {
+                                position: absolute;
+                                width: 200px;
+                                height: 52px;
+                                left: 66px;
+                                top: 70px;
+                            justify-content: center;
+                            align-items: center;
+                               
+                                font-weight: 300;
+                                word-spacing: 10px;
+
+
+                            
+                               }
+                            
+                               a { 
+                                text-decoration: none;
+                                font-family: Roboto;
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 14px;
+                            line-height: 26px;
+                            color: #999999;
+                            font-weight: 300;
+                           word-spacing: 1px;
+                               } 
+                    
+                             
+                    
+                            
+                        
+                    
+}
